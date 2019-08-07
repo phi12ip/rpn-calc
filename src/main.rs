@@ -22,7 +22,6 @@ enum Token {
     // RollDown,
 } 
 
-
 fn main() {
     welcome();
     let mut stack: Vec<f64> = Vec::new();
